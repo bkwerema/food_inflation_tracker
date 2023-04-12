@@ -8,3 +8,6 @@ The purpose of this project is to inspect prices for "select" food items over in
 4. How will the increase in the grocery item prices affect people?
 5. Are the prices expected to continue increasing?
 6. What food item's price has increased the slowest and in what state?
+
+Original Data to do this project was pulled from Statistics Canada Website: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501&pickMembers%5B0%5D=1.1&cubeTimeFrame.startMonth=02&cubeTimeFrame.startYear=2018&cubeTimeFrame.endMonth=02&cubeTimeFrame.endYear=2023&referencePeriods=20180201%2C20230201
+
