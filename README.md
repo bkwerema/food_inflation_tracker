@@ -4,7 +4,7 @@ The purpose of this project is to inspect prices for "select" food items over in
 
 1. What is the most expensive grocery item in Canada?
 2. What state has the lowest standard of living? 
-3. What grocery item is expected to skyrocket within the next few years?
+3. What grocery item's price is expected to skyrocket within the next few years?
 4. Are the prices expected to continue increasing?
 5. What food item's price has increased the slowest and in what state?
 
